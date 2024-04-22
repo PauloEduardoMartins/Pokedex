@@ -5,3 +5,5 @@ Ao digitar o ID do pokemon na search bar da page do "search pokemon", vc consegu
 Há também um botão , "Fazer Shiny" que ao clicar a arte ficará da cor shiny dos monstrinhos de bolso.
 Caso o usuario digite uma ID errada, o programa automaticamente reseta e volta pra pagina vazia.
 
+# Aqui o link para o software
+https://pauloeduardomartins.github.io/Pokedex
